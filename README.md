@@ -2,4 +2,5 @@
 this is still trial testing
 
 on how git works
-oh yes i'm self learning, if thats a thing.
+oh yes i'm self learning, if thats a thing!
+i  guess i finally figured it out
